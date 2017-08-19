@@ -53,3 +53,16 @@ table {
     margin-bottom: 50px;
 
 }
+
+#tdVideoPlayer {
+
+    width: 65%;
+    height: 100%;
+    background-color: DimGray;
+    margin: 0;
+    padding: 0;
+    border: 1;
+    border-style: solid;
+    border-color: black;
+
+}
