@@ -21,3 +21,35 @@ table {
     border-color: black;
 
 }
+
+#tdSongList {
+
+    width: 35%;
+    height: 100%;
+    background-color: DimGray;
+    margin: 0;
+    padding: 0;
+    border: 1;
+    border-style: solid;
+    border-color: black;
+
+}
+
+#pSongsText{
+
+    width: 100%;
+    height: 15%;
+    margin-top: 90px;
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+#selectSongsList{
+
+    width: 100%;
+    height: 85%;
+    margin-bottom: 50px;
+
+}
